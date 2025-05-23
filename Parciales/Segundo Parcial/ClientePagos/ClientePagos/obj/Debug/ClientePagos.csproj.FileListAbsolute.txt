@@ -1,0 +1,13 @@
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\bin\Debug\ClientePagos.exe.config
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\bin\Debug\ClientePagos.exe
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\bin\Debug\ClientePagos.pdb
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\obj\Debug\ClientePagos.csproj.AssemblyReference.cache
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\obj\Debug\ClientePagos.Form1.resources
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\obj\Debug\ClientePagos.Properties.Resources.resources
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\obj\Debug\ClientePagos.csproj.GenerateResource.cache
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\obj\Debug\ClientePagos.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\obj\Debug\ClienteP.7FD6AF86.Up2Date
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\obj\Debug\ClientePagos.exe
+C:\Users\HP VICTUS\source\repos\ClientePagos\ClientePagos\obj\Debug\ClientePagos.pdb
